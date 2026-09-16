@@ -2,9 +2,6 @@
 
 I spend most of my free time tinkering with dotfiles and NixOS, basically treating my system like a pet that needs daily maintenance.
 
-- ❄️ running **NixOS** with flakes because i hate to see the git notifications on codium
-- 🖥️ desktop is **Hyprland** (wayland) + KDE Plasma on the "normie" side
-- 🎮 setup built for gaming, NVIDIA included whether it wants to cooperate or not
 - 🛠️ constantly tweaking the rice until it looks right (it never looks "done")
 
 ## 🗂️ what i'm building around here
