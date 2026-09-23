@@ -1,4 +1,4 @@
-# hey, i'm shizu 👋
+# hey, i'm Ooze 👋
 
 I spend most of my free time tinkering with dotfiles and NixOS, basically treating my system like a pet that needs daily maintenance.
 
