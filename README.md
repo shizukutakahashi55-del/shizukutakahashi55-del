@@ -6,7 +6,7 @@ I spend most of my free time tinkering with dotfiles and NixOS, basically treati
 
 ##  what i'm building around here
 
-### [nixos-config](https://github.com/shizukutakahashi55-del/nixos-config)
+### [nixos-config](https://github.com/shizukutakahashi55-del/nix-home)
 My full NixOS setup, modular and flake-based. Covers the whole system: audio, networking, NVIDIA, users, gaming, terminal, etc. Everything split into its own module so future-me doesn't get lost coming back to it in 3 months.
 
 ### [dotfiles-nix](https://github.com/shizukutakahashi55-del/dotfiles-nix)
